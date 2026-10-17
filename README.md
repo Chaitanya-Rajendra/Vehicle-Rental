@@ -154,14 +154,6 @@ Estimated rental charge: Rs. 7500
 
 ---
 
-## 🔮 Future Improvements
-
-- Persistent storage (JSON, CSV or SQLite)
-- Date-based rentals instead of manually entered days
-- Admin login and customer authentication
-- Discounts, deposits and different late-fee rates per vehicle type
-- Unit tests with `pytest`
-- GUI or web interface (Tkinter, Flask or Django)
 
 ---
 
